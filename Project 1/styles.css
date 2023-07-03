@@ -1,0 +1,28 @@
+#headerDiv {
+    background : rgba(0, 255, 115, 0.616);
+    border: 5px;
+    border-radius : 25px;
+    padding: 15px;
+    border-style:solid;
+    color: black;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#mainHead {
+    color: black;
+}
+
+body {
+    text-align: center;
+    background-image:url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+html {
+    font-family:fantasy;
+}
+
